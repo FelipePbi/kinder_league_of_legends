@@ -6,7 +6,7 @@ _Obs.: Este repositório é apenas para demonstração do aplicativo que estou d
 
 #### Demosntração
 
-![demo](https://github.com/FelipePbi/kinder_league_of_legends/blob/master/demo/default.GIF)
+![demo](https://github.com/FelipePbi/kinder_league_of_legends/blob/master/demo/default.gif)
 
 ## Sobre este projeto
 
